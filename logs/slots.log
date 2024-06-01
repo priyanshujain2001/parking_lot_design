@@ -1,0 +1,167 @@
+2024-06-01 23:33:26,523 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:26,524 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:26,526 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:33:26,599 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-01 23:33:26,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-01 23:33:26,608 - werkzeug - INFO -  * Restarting with stat
+2024-06-01 23:33:26,837 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:26,837 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:26,837 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:33:26,837 - werkzeug - WARNING -  * Debugger is active!
+2024-06-01 23:33:26,837 - werkzeug - INFO -  * Debugger PIN: 104-938-159
+2024-06-01 23:33:51,881 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:51,881 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:51,881 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:33:51,898 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-01 23:33:51,898 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-01 23:33:51,898 - werkzeug - INFO -  * Restarting with stat
+2024-06-01 23:33:52,124 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:52,124 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:33:52,124 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:33:52,124 - werkzeug - WARNING -  * Debugger is active!
+2024-06-01 23:33:52,124 - werkzeug - INFO -  * Debugger PIN: 104-938-159
+2024-06-01 23:34:49,932 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:35:00,508 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:35:00,508 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:35:00,508 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:35:00,524 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-06-01 23:35:00,524 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-01 23:35:00,524 - werkzeug - INFO -  * Restarting with stat
+2024-06-01 23:35:00,742 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:35:00,742 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:35:00,742 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:35:00,742 - werkzeug - WARNING -  * Debugger is active!
+2024-06-01 23:35:00,757 - werkzeug - INFO -  * Debugger PIN: 104-938-159
+2024-06-01 23:35:13,253 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2024 23:35:13] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-01 23:35:13,518 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2024 23:35:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-01 23:36:08,823 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DEEL\\Desktop\\Priyanshu\\parking_lot\\main.py', reloading
+2024-06-01 23:36:08,855 - werkzeug - INFO -  * Restarting with stat
+2024-06-01 23:36:09,074 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:36:09,074 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:36:09,074 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:36:09,074 - werkzeug - WARNING -  * Debugger is active!
+2024-06-01 23:36:09,090 - werkzeug - INFO -  * Debugger PIN: 104-938-159
+2024-06-01 23:36:09,294 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:36:09,326 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:36:11,464 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:36:11,464 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:36:11,464 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:36:11,480 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-01 23:36:11,480 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-01 23:36:11,480 - werkzeug - INFO -  * Restarting with stat
+2024-06-01 23:36:11,696 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:36:11,696 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:36:11,696 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:36:11,711 - werkzeug - WARNING -  * Debugger is active!
+2024-06-01 23:36:11,711 - werkzeug - INFO -  * Debugger PIN: 104-938-159
+2024-06-01 23:36:13,873 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2024 23:36:13] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-01 23:36:13,929 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2024 23:36:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-01 23:36:15,972 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2024 23:36:15] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-01 23:36:54,376 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2024 23:36:54] "[31m[1mGET /park_vehicle HTTP/1.1[0m" 405 -
+2024-06-01 23:37:30,452 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:39:48,505 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:39:48,505 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:39:48,505 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:39:48,536 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-01 23:39:48,536 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-01 23:39:48,540 - werkzeug - INFO -  * Restarting with stat
+2024-06-01 23:39:48,745 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:39:48,745 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:39:48,745 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:39:48,758 - werkzeug - WARNING -  * Debugger is active!
+2024-06-01 23:39:48,758 - werkzeug - INFO -  * Debugger PIN: 104-938-159
+2024-06-01 23:39:56,647 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:39:56,647 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:39:56,648 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:39:56,648 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:40:11,924 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:40:12,346 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:40:12,346 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:40:12,346 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:40:12,346 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:40:15,184 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:40:38,014 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:40:38,030 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:40:38,030 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:40:58,039 - src.user - INFO - User 1001 connected to databases
+2024-06-01 23:40:58,040 - src.user - INFO - Retrieved balance for user 1001
+2024-06-01 23:40:58,040 - src.user - INFO - User databases closed
+2024-06-01 23:41:03,679 - src.user - INFO - User 1004 connected to databases
+2024-06-01 23:41:03,679 - src.user - INFO - Retrieved balance for user 1004
+2024-06-01 23:41:03,680 - src.user - INFO - User databases closed
+2024-06-01 23:41:35,972 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:47:41,356 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:47:41,356 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:47:41,356 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:48:51,141 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:48:53,659 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:48:53,659 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:48:53,659 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:49:39,470 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:50:42,505 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:50:42,506 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:50:42,506 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:50:42,507 - src.slots - INFO - Retrieved available slots
+2024-06-01 23:51:04,477 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:51:04,478 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:51:04,478 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:51:04,478 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:51:23,327 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:51:23,328 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:51:23,328 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:51:23,329 - src.user - INFO - User 1001 connected to databases
+2024-06-01 23:51:23,329 - src.user - INFO - Retrieved balance for user 1001
+2024-06-01 23:51:23,330 - src.user - INFO - User databases closed
+2024-06-01 23:53:26,871 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:53:26,871 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:53:26,871 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:54:13,830 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:54:48,979 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:54:48,979 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:54:48,979 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:54:48,979 - src.slots - INFO - Retrieved available slots
+2024-06-01 23:54:48,995 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-01 23:55:14,242 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:55:14,242 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-01 23:55:14,242 - src.parking_gate_system - INFO - ParkingGateSystem connected to all databases
+2024-06-01 23:55:14,242 - src.user - INFO - User 1004 connected to databases
+2024-06-01 23:55:14,242 - src.user - INFO - Retrieved balance for user 1004
+2024-06-01 23:55:14,242 - src.user - INFO - User databases closed
+2024-06-01 23:55:14,262 - src.parking_gate_system - INFO - ParkingGateSystem database connection closed
+2024-06-02 00:09:16,340 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:09:16,340 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:09:16,344 - src.admin - INFO - Added new user with user_id 1012 and initial balance 100
+2024-06-02 00:12:13,555 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:12:13,555 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:12:13,572 - src.admin - INFO - Added new user with user_id 1013 and initial balance 100
+2024-06-02 00:14:33,509 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:14:33,509 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:16:19,507 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:16:19,507 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:17:30,309 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:17:30,309 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:20:40,927 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:20:40,927 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:21:24,228 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:21:24,228 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:23:13,563 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:23:13,564 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:24:24,567 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:24:24,567 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:24:24,567 - src.admin - INFO - All database connections closed
+2024-06-02 00:24:30,201 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:24:30,201 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:24:30,214 - src.admin - INFO - Added new user with user_id 1014 and initial balance 100
+2024-06-02 00:24:33,012 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:24:33,013 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:24:33,013 - src.admin - INFO - All database connections closed
+2024-06-02 00:24:33,035 - src.admin - INFO - Added new user with user_id 1015 and initial balance 100
+2024-06-02 00:24:34,027 - src.slots - INFO - Connected to the database Databases\parking_slots.db
+2024-06-02 00:24:34,027 - src.admin - INFO - Admin connected to all databases
+2024-06-02 00:24:34,027 - src.admin - INFO - All database connections closed
+2024-06-02 00:24:34,042 - src.admin - INFO - Added new user with user_id 1016 and initial balance 100

@@ -1,0 +1,16 @@
+Schema for parking_slots.db:
+Table: parking_slots
+Columns: slot_number, status
+
+Schema for users_data.db:
+Table: user_data
+Columns: user_id, amount
+
+Schema for parking_tickets.db:
+Table: parking_tickets
+Columns: ticket_id, user_id, in_time, out_time, vehicle_type, slot
+
+Schema for parking_prices.db:
+Table: parking_prices
+Columns: vehicle_type, amount
+
